@@ -51,10 +51,10 @@ Escapキーを押して終了してください。
 - タイトル画面ではわかりやすい動きをつけて、よりゲームらしさを出しました。※画3
 
 ※画1　
-<img src="https://github.com/june-mare/FantasyWizard2D/blob/master/FantasyWizardCsv.png" alt="Csv" title="Csv" width="500" height="340">
+<img src="https://github.com/june-mare/FantasyWizard2D/blob/master/FantasyWizardCsv.png" alt="Csv" title="Csv" width="700" height="240">
 
 ※画2
-<img src="https://github.com/june-mare/FantasyWizard2D/blob/master/FantasyWizardComponent.png" alt="Component" title="Component" width="500" height="340">
+<img src="https://github.com/june-mare/FantasyWizard2D/blob/master/FantasyWizardComponent.png" alt="Component" title="Component" width="400" height="440">
 
 ※画3
 <img src="https://github.com/june-mare/FantasyWizard2D/blob/master/FantasyWizard%20Title.png" alt="Title" title="Title" width="500" height="340">
