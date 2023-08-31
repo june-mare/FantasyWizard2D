@@ -28,7 +28,8 @@
    ### その他のルール
    - フィールド上の建物や敵を倒すことで回復アイテムが低確率で落ちHPを増量できます。
    - フィールド上の宝箱のオブジェクトを壊すことで武器がドロップし、取得すると攻撃の種類が変わり、強化されます。
-   <img src="attach:cat.jpg" alt="attach:cat" title="attach:cat" width="200" height="200">
+   <img src="https://github.com/june-mare/FantasyWizard2D/blob/master/FantasyWizard%20Drop.png" alt="Drop" title="Drop" width="500" height="340">
+
 ## 起動方法
 　　OpenGLGame.exeを起動してください。
 
