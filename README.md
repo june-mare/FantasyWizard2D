@@ -28,7 +28,7 @@
    ### その他のルール
    - フィールド上の建物や敵を倒すことで回復アイテムが低確率で落ちHPを増量できます。
    - フィールド上の宝箱のオブジェクトを壊すことで武器がドロップし、取得すると攻撃の種類が変わり、強化されます。
-   
+   <img src="attach:cat.jpg" alt="attach:cat" title="attach:cat" width="200" height="200">
 ## 起動方法
 　　OpenGLGame.exeを起動してください。
 
@@ -37,7 +37,7 @@
 - 左シフトor右シフトを押している間　向いてる方向の固定
 - Spaceキー　魔法の発射(攻撃)
 - Enterキー　次に進むために押すボタン
-     
+     https://github.com/june-mare/FantasyWizard2D/blob/master/FantasyWizard%20Debug.png
 ## 終了方法
 Escapキーを押して終了してください。
 
