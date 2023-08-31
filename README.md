@@ -24,12 +24,11 @@
 
 ## アプリケーションの内容
 　　トップビューの2Dシューティングゲームでステージは1~5迄あり5面のボスを倒すとクリアします。
-  　タイムに合ったスコアが出てくるので高得点を目指しましょう。
-   
+  　タイムに合ったスコアが出てくるので高得点を目指しましょう。   
 <img src="https://github.com/june-mare/FantasyWizard2D/blob/master/FantasyWizard%20Play.png" alt="Play" title="Play" width="500" height="340">
-   ### その他のルール
-   - フィールド上の建物や敵を倒すことで回復アイテムが低確率で落ちHPを増量できます。
-   - フィールド上の宝箱のオブジェクトを壊すことで武器がドロップし、取得すると攻撃の種類が変わり、強化されます。
+### その他のルール
+- フィールド上の建物や敵を倒すことで回復アイテムが低確率で落ちHPを増量できます。
+- フィールド上の宝箱のオブジェクトを壊すことで武器がドロップし、取得すると攻撃の種類が変わり、強化されます。
 
    <img src="https://github.com/june-mare/FantasyWizard2D/blob/master/FantasyWizard%20Drop.png" alt="Drop" title="Drop" width="500" height="340">
 
