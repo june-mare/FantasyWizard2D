@@ -25,6 +25,7 @@
 ## アプリケーションの内容
 　　トップビューの2Dシューティングゲームでステージは1~5迄あり5面のボスを倒すとクリアします。
   　タイムに合ったスコアが出てくるので高得点を目指しましょう。
+    <img src="https://github.com/june-mare/FantasyWizard2D/blob/master/FantasyWizard%20Play.png" alt="Play" title="Play" width="500" height="340">
    ### その他のルール
    - フィールド上の建物や敵を倒すことで回復アイテムが低確率で落ちHPを増量できます。
    - フィールド上の宝箱のオブジェクトを壊すことで武器がドロップし、取得すると攻撃の種類が変わり、強化されます。
@@ -38,15 +39,26 @@
 - 左シフトor右シフトを押している間　向いてる方向の固定
 - Spaceキー　魔法の発射(攻撃)
 - Enterキー　次に進むために押すボタン
-     https://github.com/june-mare/FantasyWizard2D/blob/master/FantasyWizard%20Debug.png
+
 ## 終了方法
 Escapキーを押して終了してください。
 
 ## 工夫した点
 - 背景レイヤーとフィールド上の建物などの動きを合わせて作るのではなく別々に作った為、他のステージの作成とフィールドに置かれる建物の変更をやりやすくしました。
-- CSVの読み込みに挑戦しチームとして制作したときにマージなどの作業がしやすいように作成しました。
-- コンポーネント指向をもとに作成したため、敵の行動の制御や追加がしやすくなり、早く作ることが出来ました。
-- タイトル画面ではわかりやすい動きをつけて、よりゲームらしさを出しました。
+- CSVの読み込みに挑戦しチームとして制作したときにマージなどの作業がしやすいように作成しました。※画1
+- コンポーネント指向をもとに作成したため、敵の行動の制御や追加がしやすくなり、早く作ることが出来ました。※画2
+- タイトル画面ではわかりやすい動きをつけて、よりゲームらしさを出しました。※画3
+
+※画1　
+<img src="https://github.com/june-mare/FantasyWizard2D/blob/master/FantasyWizard%20Csv.png" alt="Csv" title="Csv" width="500" height="340">
+
+※画2
+<img src="https://github.com/june-mare/FantasyWizard2D/blob/master/FantasyWizardComponent.png" alt="Component" title="Component" width="500" height="340">
+
+※画3
+<img src="https://github.com/june-mare/FantasyWizard2D/blob/master/FantasyWizard%20Title.png" alt="Title" title="Title" width="500" height="340">
 
 ## 自分がどのように頑張ったか
 この作品ではプログラムをやりやすくするためにデバッグ用のシーンを用意して、ImGuiから何が起きているのかや、どのような値が入っているかなどを細かく確認し作成することが出来ました。
+<img src="https://github.com/june-mare/FantasyWizard2D/blob/master/FantasyWizard%20Debug.png" alt="Debug" title="Debug" width="500" height="340">
+
