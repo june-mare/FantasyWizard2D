@@ -16,15 +16,15 @@
 |プラットフォーム|PC|
 
 ## 開発環境　　　　　　
-　　Microsoft Visual Studio 
-　　OpenGL
+Microsoft Visual Studio 
+OpenGL
   
 ## 製作意図
-　　OpenGLでのゲームを作るにあたって自分の作成したプログラムの土台で動くゲームを作りたかったため作成しました。
+OpenGLでのゲームを作るにあたって自分の作成したプログラムの土台で動くゲームを作りたかったため作成しました。
 
 ## アプリケーションの内容
-　　トップビューの2Dシューティングゲームでステージは1~5迄あり5面のボスを倒すとクリアします。
-  　タイムに合ったスコアが出てくるので高得点を目指しましょう。   
+トップビューの2Dシューティングゲームでステージは1~5迄あり5面のボスを倒すとクリアします。
+タイムに合ったスコアが出てくるので高得点を目指しましょう。   
 <img src="https://github.com/june-mare/FantasyWizard2D/blob/master/FantasyWizard%20Play.png" alt="Play" title="Play" width="500" height="340">
 ### その他のルール
 - フィールド上の建物や敵を倒すことで回復アイテムが低確率で落ちHPを増量できます。
@@ -33,7 +33,7 @@
    <img src="https://github.com/june-mare/FantasyWizard2D/blob/master/FantasyWizard%20Drop.png" alt="Drop" title="Drop" width="500" height="340">
 
 ## 起動方法
-　　OpenGLGame.exeを起動してください。
+OpenGLGame.exeを起動してください。
 
 ## 操作方法
 - W.A.S.Dを押して 移動
